@@ -24,9 +24,10 @@
             <input
               class="form-control"
               type="text"
+              id="city-input"
               placeholder="Enter City Name"
             />
-            <button class="btn btn-primary my-2 my-sm-0">
+            <button class="btn btn-primary my-2 my-sm-0" id="submit-btn">
               <svg
                 class="white"
                 width="1em"
@@ -38,7 +39,7 @@
               >
                 <path
                   fill-rule="evenodd"
-                  d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
+                  d="M10.5 10.5a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"
                 />
                 <path
                   fill-rule="evenodd"
@@ -49,18 +50,17 @@
           </form>
           <br />
           <ul id="city-list">
-           
-  
+            
           </ul>
         </div>
 
         <div class="col-8 card">
           <div class="row">
-            <div class="col">
+            <div class="col" id="todays-weather">
             </div>
           </div>
           <!-- end row -->
-          <div class="row">
+          <div class="row" id="week-weather">
             
           </div>
         </div>
