@@ -7,3 +7,7 @@ Displays five day forecast for any city that is searched, with temperature in Fa
 # Screenshot
 
 ![screenshot](./weather-dashboard.png)
+
+# Deployed Application
+
+https://peterw712.github.io/weather-dashboard-resubmission/
