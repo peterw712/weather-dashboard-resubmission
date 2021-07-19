@@ -1,13 +1,13 @@
-## Weather Dashboard
+# Weather Dashboard
 
-# Description
+## Description
 
 Displays five day forecast for any city that is searched, with temperature in Farenheit and humidity levels.
 
-# Screenshot
+## Screenshot
 
 ![screenshot](./weather-dashboard.png)
 
-# Deployed Application
+## Deployed Application
 
 https://peterw712.github.io/weather-dashboard-resubmission/
